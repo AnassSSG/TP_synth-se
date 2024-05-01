@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979550160976",
+    "project_id": "boujendarzaa",
+    "storage_bucket": "boujendarzaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979550160976:android:a64246f90579bd44062955",
+        "android_client_info": {
+          "package_name": "com.example.tp_synthese"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMk2FeiDuAMKdP9S3FvKpDT149j9GqAts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
